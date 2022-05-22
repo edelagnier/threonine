@@ -74,6 +74,8 @@ footer:
         url   : "/cv"
       - name  : "Contact"
         url   : "/contact"
+      - name  : "CGU"
+        url   : "/cgu"
   social:
     title: "Réseaux sociaux"
     link: 
