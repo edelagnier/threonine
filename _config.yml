@@ -44,6 +44,8 @@ navigation:
   - title: Contact
     url: /contact
     tag: special
+  - title: EN
+    url: https://threoninedesign.com/
 
 # Call to action
 call-to-action:
