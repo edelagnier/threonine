@@ -1,0 +1,10 @@
+enable  : true
+title   : "Vos témoignages"
+subtitle: "À vous la parole !"
+testimonial_item :
+  - thumb : "images/testimonial/noun-person-anis.png"
+    name  : "A-C PRATS, INSERM"
+    subtitle: "J’ai fait appel à THREONINE pour me faire un diaporama destiné à une conférence scientifique grand public. Il fallait des illustrations très pédagogiques pour pouvoir faire comprendre mon projet de recherche. Cette première expérience avec THREONINE a été formidable. Tout d’abord une très grande réactivité et rapidité de réalisation du travail. J’ai été favorablement impressionnée par la compréhension rapide de mes souhaits, et finalement un travail de belle qualité réalisé dans les temps malgré le délai court que je demandais. Je recommande pleinement THREONINE pour la réalisation de diaporama et d’illustrations scientifiques."
+  - thumb : "images/testimonial/noun-person-anis.png"
+    name  : "R.S PILLAI, Université de Genève"
+    subtitle: "Extremely satisfied with Anne-Claire’s scientific illustration services. She read the manuscript in question, discussed with my students, and came up with a range of creative ideas to implement, including the cover that was finally selected by the journal."  
