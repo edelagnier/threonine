@@ -4,7 +4,7 @@ title: "Présentation de la plateforme"
 date: 2023-05-01 12:11:27
 type: portfolio
 image: "images/projects/wemet/wemetposter-cover.jpg"
-category: ["Poster scientifique"]
+category: ["Posters scientifiques"]
 first_image: "images/projects/wemet/wemetposter1.jpg"
 project_images: ["images/projects/wemet/wemetposter2.jpg"]
 ---
