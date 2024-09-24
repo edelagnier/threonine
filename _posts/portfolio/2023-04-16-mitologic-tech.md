@@ -6,6 +6,7 @@ type: portfolio
 image: "images/projects/mitologics-scheme/mito-tech-cover.jpg"
 category: ["Illustration scientifique"]
 first_image: "images/projects/mitologics-scheme/mito2.jpg"
+project_images: ["images/projects/mitologics-scheme/mito2.jpg"]
 ---
 
 Conception d'une illustration "technique" de la mitochondrie avec la chaine respiratoire, pour Mitologics SAS (Romainville).
