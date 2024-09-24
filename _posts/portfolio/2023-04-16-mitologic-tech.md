@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Schéma d'une mitochondrie"
-date: 2023-04-15 12:11:27
+date: 2023-04-16 12:11:27
 type: portfolio
 image: "images/projects/mitologics-internet/mito-tech-cover.jpg"
 category: ["Illustration scientifique"]

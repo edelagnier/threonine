@@ -11,5 +11,4 @@ project_images: ["images/projects/alfaidy/GA-Alfaidy2.jpg", "images/projects/alf
 
 Conception d'un résumé graphique pour Reynaud et al du laboratoire Biology and Biotechnology for Health de l'UMR INSERM/CEA/UGA, à Grenoble, pour leur article de recherche intitulé "NLRP7 Enhances Choriocarcinoma Cell Survival and Camouflage in an Inflammasome Independent Pathway".
 
-
 Voici leur article à lire dans<a href="https://www.mdpi.com/2073-4409/12/6/857"> Cells</a>
